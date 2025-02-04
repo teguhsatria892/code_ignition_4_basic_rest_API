@@ -1,0 +1,4 @@
+[04-Feb-2025 09:37:46 UTC] PHP Deprecated:  Optional parameter $typeReceive declared before required parameter $key is implicitly treated as a required parameter in /home/satn3939/public_html/app/Controllers/BaseController.php on line 82
+[04-Feb-2025 09:38:40 UTC] PHP Deprecated:  Optional parameter $typeReceive declared before required parameter $key is implicitly treated as a required parameter in /home/satn3939/public_html/app/Controllers/BaseController.php on line 82
+[04-Feb-2025 09:56:31 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home/satn3939/public_html/app/Models/BaseModel.php on line 9
+[04-Feb-2025 10:36:58 UTC] PHP Fatal error:  Cannot redeclare App\Models\BaseModel::getPaginationResult() in /home/satn3939/public_html/app/Models/BaseModel.php on line 24
