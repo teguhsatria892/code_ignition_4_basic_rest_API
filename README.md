@@ -1,5 +1,10 @@
 # CodeIgniter 4 Framework
 
+## Where is basic rest api ?
+
+You can controller on User.php, acces it like rest API,  host/public/user/get_list
+add parameter what you need in paginationData
+
 ## What is CodeIgniter?
 
 CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
